@@ -1,4 +1,4 @@
-<h1 align="center">print("Hello World! I'm Leonardo, be very welcome").</h1>
+<h1 align="center">print("Hello World! I'm Leonardo, be very welcome")</h1>
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martinss27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
