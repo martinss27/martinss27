@@ -8,7 +8,6 @@
 ---
 
 <div align="center">
-  <h3>🛠 Stacks</h3>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64" alt="python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="64" alt="django" />
