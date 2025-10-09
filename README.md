@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 I’m currently working at **Admira**
 
-- 🔥 How to reach me **leoalmeidamartins@gmail.com**
+- 📍 How to reach me **leoalmeidamartins@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
