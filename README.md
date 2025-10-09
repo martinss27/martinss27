@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo Martins</h1>
 <h3 align="center">A backend developer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working on **Admira**
+- 👨🏻‍💻 I’m currently working at **Admira**
 
 - 📫 How to reach me **leoalmeidamartins@gmail.com**
 
