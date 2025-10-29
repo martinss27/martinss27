@@ -13,14 +13,6 @@ I focus on solutions that are **efficient, maintainable and actually useful for 
 
 ---
 
-## What I’m currently doing
-
-- Designing and maintaining API-based data pipelines and integrations  
-- Working with asynchronous data ingestion at scale  
-- Shipping backend solutions focused on performance and reliability  
-
----
-
 ## Contact
 
 Available for backend discussions, collaboration and engineering-focused projects.  
